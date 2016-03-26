@@ -112,7 +112,7 @@ hi jsNull ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi jsUndefined ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi jsNan ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi jsPrototype ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
-hi jsThis ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
+hi jsThis ctermfg=148 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi jsGlobalObjects ctermfg=148 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi jsExceptions ctermfg=148 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
 hi jsBuiltins ctermfg=148 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=NONE gui=NONE
